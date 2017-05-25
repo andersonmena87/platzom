@@ -1,4 +1,4 @@
-##Platzom
+## Platzom
 
 Platzom es un idioma inventado para el curso de fundamentos de de javascript de platzi.
 
